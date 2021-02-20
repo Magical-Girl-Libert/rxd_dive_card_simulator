@@ -1,0 +1,2 @@
+# rxd_dive_card_simulator
+ロックマンXDiVEのダイヴカードでいい感じの組み合わせを探すやつ
